@@ -3,3 +3,6 @@ folium
 networkx
 geopandas
 matplotlib
+pandas
+numpy
+scikit-learn
